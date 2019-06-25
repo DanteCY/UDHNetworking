@@ -1,0 +1,6 @@
+framework module UDHNetworking {
+  umbrella header "UDHNetworking.h"
+
+  export *
+  module * { export * }
+}
